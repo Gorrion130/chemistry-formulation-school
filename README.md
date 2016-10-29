@@ -1,2 +1,4 @@
 # chemistry-formulation-school
-A customizable windows program for practice formulation at chemistry class
+A customizable c++ program for practice formulation in chemistry class.
+
+-Compile it with codeblocks ide.
